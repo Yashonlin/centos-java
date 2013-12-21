@@ -1,4 +1,4 @@
-A docker build of the latest Centos release with update applied, and java installed.
+A docker build of the latest Centos release with updates applied, and java installed.
 
 Here's how I build it:
 
